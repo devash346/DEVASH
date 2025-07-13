@@ -4,7 +4,7 @@
 
 This file contains all documentation content in a single document following the llmtxt.org standard.
 
-## Agent Zero
+## Agent Zero as
 
 # Agent Zero
 
