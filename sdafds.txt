@@ -30,7 +30,7 @@ In this tutorial, we will use the public [Llama-3.1-8B node](https://github.com/
 
 > You can start a local LLM service using [Gaia](https://github.com/GaiaNet-AI/node-configs/tree/main/llama-3.1-8b-instruct) or [LlamaEdge](https://llamaedge.com/docs/user-guide/quick-start-command) or [Moxin](https://github.com/moxin-org/moxin), and then use `http://localhost:8080/v1/` as the LLM API service endpoint URL.
 
-## Configure the agent
+## Configure the agent 02
 
 First, we will need to get the source code of a Gaia-compatible version of Agent Zero.
 
