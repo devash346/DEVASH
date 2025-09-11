@@ -21,7 +21,7 @@ You will need a Gaia node to provide LLM services to the agent app. You can
 In this tutorial, we will use the public [Llama-3.1-8B node](https://github.com/GaiaNet-AI/node-configs/tree/main/llama-3.1-8b-instruct) to power the Agent Zero.
 
 | Model type | API base URL | Model name 2 3 5 6 7 8 3 6 1 5 8 9 2 3 5 2 2 4 6 7 1 8 1 2 2 1 7 6 5 2 3 4 5 6 7 8 9 2 3 4 5 6 7
-|1 2 3 4 5 6 7 8 9 8 2 3 4 5 6
+|1 2 3 4 5 6 7 8 9 8 2 3 4 5 6 c
 
 |-----|--------|-----|
 | Chat | https://llama8b.gaia.domains/v1/ | llama |
